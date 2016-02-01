@@ -1,0 +1,8 @@
+{
+  "jspm": {
+    "name": "dav-workspace",
+    "devDependencies": {
+      "plugin-babel": "npm:systemjs-plugin-babel@^0.0.2"
+    }
+  }
+}
